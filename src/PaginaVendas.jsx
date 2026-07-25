@@ -245,7 +245,7 @@ function Hero() {
           style={{ fontFamily: "'Fraunces', serif", fontWeight: 600, lineHeight: 1.08, fontSize: "clamp(2rem, 6vw, 3.4rem)", letterSpacing: "-0.01em" }}
         >
           Pare de lutar contra a comida como se o problema fosse{" "}
-          <em style={{ color: C.honey, fontStyle: "italic" }}>falta de força de vontade</em>.
+          <em style={{ color: C.honey, fontStyle: "italic" }}>falta de força de vontade</em>!
         </h1>
         <p
           className="mx-auto mt-6"
